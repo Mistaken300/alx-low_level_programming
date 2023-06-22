@@ -3,7 +3,7 @@
 /**
  * main -print three number combination
  *
- * Return : 0 success
+ * Return: 0 success
  */
 
 int main(void)
