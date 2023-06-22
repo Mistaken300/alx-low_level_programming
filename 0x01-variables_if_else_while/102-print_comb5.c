@@ -2,7 +2,7 @@
 /**
  * main - Prints all possible combination of a pair of
  * two digit numbers, without any repetition.
-(* 
+ *
  * Return: 0 on success.
  */
 
