@@ -19,5 +19,6 @@ charr *leet(char *n)
 				n[i] = s2[j];
 			}
 		}
-		return (n);
+	}
+	return (n);
 }
